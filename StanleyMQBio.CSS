@@ -1,6 +1,6 @@
 #landing{
     height: 100%;
-    background-image: url('C:/Users/shane/pictures/castle.jpg');
+    background-image: url('https://github.com/StanStanley512/MediaQueryResponsive/blob/master/castle.JPG?raw=true');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -10,7 +10,7 @@
  @media screen and (max-width: 980px) {
     #landing{
     height: 100%;
-    background-image: url('C:/Users/shane/pictures/castle.jpg');
+    background-image: url('https://github.com/StanStanley512/MediaQueryResponsive/blob/master/castle.JPG?raw=true');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -19,7 +19,7 @@
  @media screen and (max-width: 768px) {
    #landing{
     height: 100%;
-    background-image: url('C:/Users/shane/pictures/castle.jpg');
+    background-image: url('https://github.com/StanStanley512/MediaQueryResponsive/blob/master/castle.JPG?raw=true');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -28,7 +28,7 @@
  @media screen and (max-width: 640px) {
    #landing{
     height: 100%;
-    background-image: url('C:/Users/shane/pictures/castle.jpg');
+    background-image: url('https://github.com/StanStanley512/MediaQueryResponsive/blob/master/castle.JPG?raw=true');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
